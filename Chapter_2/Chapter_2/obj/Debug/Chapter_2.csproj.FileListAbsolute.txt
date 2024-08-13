@@ -1,0 +1,7 @@
+E:\Isdb61\C#\Chapter_2\Chapter_2\bin\Debug\Chapter_2.exe.config
+E:\Isdb61\C#\Chapter_2\Chapter_2\bin\Debug\Chapter_2.exe
+E:\Isdb61\C#\Chapter_2\Chapter_2\bin\Debug\Chapter_2.pdb
+E:\Isdb61\C#\Chapter_2\Chapter_2\obj\Debug\Chapter_2.csproj.AssemblyReference.cache
+E:\Isdb61\C#\Chapter_2\Chapter_2\obj\Debug\Chapter_2.csproj.CoreCompileInputs.cache
+E:\Isdb61\C#\Chapter_2\Chapter_2\obj\Debug\Chapter_2.exe
+E:\Isdb61\C#\Chapter_2\Chapter_2\obj\Debug\Chapter_2.pdb
